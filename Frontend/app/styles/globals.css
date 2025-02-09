@@ -1,0 +1,28 @@
+/* path: app/styles/globals.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-shadow-green {
+  text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00;
+}
+
+@keyframes hackerText {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  50% {
+    opacity: 0.5;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hacker-animation {
+  animation: hackerText 2s ease-in-out;
+}

@@ -26,9 +26,9 @@ CXC servers, there is a chance the backend may be down and the application won't
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ## Preview:
-![Start Screen](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/tree/master/Frontend/screenshots/startscreen.png)
-![Game Hosting](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/tree/master/Frontend/screenshots/gamehosting.png)
-![In Game](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/tree/master/Frontend/screenshots/ingame.png)
-![Code Editor](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/tree/master/Frontend/screenshots/codeeditor.png)
-![Game Winner](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/tree/master/Frontend/screenshots/gamewinner.png)
+![Start Screen](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/master/Frontend/screenshots/startscreen.png)
+![Game Hosting](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/master/Frontend/screenshots/gamehosting.png)
+![In Game](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/master/Frontend/screenshots/ingame.png)
+![Code Editor](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/master/Frontend/screenshots/codeeditor.png)
+![Game Winner](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/master/Frontend/screenshots/gamewinner.png)
 

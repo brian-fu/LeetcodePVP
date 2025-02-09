@@ -5,7 +5,7 @@ import signal
 import sys
 import random
 import string
-from run_code import execute_code
+from Backend.run_code import execute_code
 
 # Configuration class to store game constants
 class GameConfig:
@@ -208,7 +208,7 @@ def stop_game():
     
     return make_response(True, {"game_state": "STOPPED"})
 
-from run_code import read_file
+from Backend.run_code import read_file
 def pick_questions():
     problems = read_file("questions.json")
     random_key = random.choice(list(problems.keys()))

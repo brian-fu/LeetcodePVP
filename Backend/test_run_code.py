@@ -1,4 +1,4 @@
-from run_code import execute_code
+from Backend.run_code import execute_code
 
 solutions = {
     "two_sum": [1,

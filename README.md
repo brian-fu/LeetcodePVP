@@ -13,7 +13,7 @@ CXC servers, there is a chance the backend may be down and the application won't
 
 [LeetcodePVP](https://leetcodepvp.vercel.app/)
 
-## Our Tech Stack:
+## Tech Stack:
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,4 +25,10 @@ CXC servers, there is a chance the backend may be down and the application won't
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+## Preview:
+![Start Screen](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/tree/master/Frontend/screenshots/startscreen.png)
+![Game Hosting](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/tree/master/Frontend/screenshots/gamehosting.png)
+![In Game](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/tree/master/Frontend/screenshots/ingame.png)
+![Code Editor](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/tree/master/Frontend/screenshots/codeeditor.png)
+![Game Winner](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/tree/master/Frontend/screenshots/gamewinner.png)
 

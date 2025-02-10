@@ -31,7 +31,7 @@ CXC servers, there is a chance the backend may be down and the application won't
 ### Game Hosting
 ![Game Hosting](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/master/Frontend/screenshots/gamehosting.png)
 ### In-Game
-![In Game](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/master/Frontend/screenshots/ingame.png)
+![In Game (POV 1 : POV 2)](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/master/Frontend/screenshots/ingame.png)
 ### Code Editor
 ![Code Editor](https://raw.githubusercontent.com/brian-fu/LeetcodePVP/master/Frontend/screenshots/codeeditor.png)
 ### Game Winner
